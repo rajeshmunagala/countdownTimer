@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+.countdown {
+  padding: 0em 2em 0em 2em;
+}
+.danger {
+  color: red;
+}
